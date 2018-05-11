@@ -8,6 +8,7 @@ This means realmadrid plays its home matches in madrid.
 Second one shows the matches played between two teams, their scores and the week that the match is played.
 e.g. match(1, kobenhavn, 1, juventus 2).
 A match is played between kobenhavn which is the home team and juventus which is the away team in week 1, and juventus defeated kobenhavn with the score of 2-1.
+
 In the project, the tasks are the following:
   1) All Teams:
 List all teams in the database.
