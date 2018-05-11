@@ -2,6 +2,7 @@ The project is to write a Prolog program which performs some particular tasks fo
 A database is given with a bunch of predicates in the following two form:
   1) team(teamName, hometown).
   2) match(week, homeTeam, homeTeamScore, awayTeam, awayTeamScore).
+
 First one shows the teams that are existing in the database and their home town.
 e.g. team(realmadrid, madrid).
 This means realmadrid plays its home matches in madrid.
